@@ -1,0 +1,18 @@
+# Channel Details
+title=Roku Boilerplate
+major_version=1
+minor_version=0
+build_version=0
+
+# Channel Assets
+mm_icon_focus_hd=pkg:/assets/images/channel-icon_HD.jpg
+mm_icon_focus_sd=pkg:/assets/images/channel-icon_SD.jpg
+
+# Splash Screen + Loading Screen Artwork
+splash_screen_sd=pkg:/assets/images/splash-screen_SD.jpg
+splash_screen_hd=pkg:/assets/images/splash-screen_HD.jpg
+splash_screen_fhd=pkg:/assets/images/splash-screen_FHD.jpg
+splash_color=#000000
+splash_min_time=1500
+ui_resolutions=hd
+
